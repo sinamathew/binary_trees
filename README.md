@@ -20,7 +20,7 @@ trees in a pretty way.
 prototypes for all types and functions written for the project.
 
 Data Structures
-```
+```c
 struct binary_tree_s
 {
     int n;
@@ -258,18 +258,11 @@ Function Prototypes
 
 ## Authors
 <details>
-    <summary>Suara Ayomide</summary>
+    <summary>Sina Mathew</summary>
     <ul>
-    <li><a href="https://www.github.com/aysuarex">Github</a></li>
-    <li><a href="https://www.twitter.com/Aysuarex">Twitter</a></li>
-    <li><a href="mailto:aysuarex@gmail.com">e-mail</a></li>
-    </ul>
-</details>
-<details>
-    <summary>--- Chioma</summary>
-    <ul>
-    <li><a href="https://www.github.com/chioma2000">Github</a></li>
-    <li><a href="https://www.twitter.com/---chioma">Twitter</a></li>
-    <li><a href="mailto:---chioma---@gmail.com">e-mail</a></li>
+    <li><a href="https://www.github.com/sinamathew">Github</a></li>
+    <li><a href="https://www.twitter.com/s1namathew">Twitter</a></li>
+    <li><a href="mailto:mathewoluwashinastephen@duck.com">E-mail</a></li>
+    <li><a href="https://linkedin.com/in/sinamathew">LinkedIn</a></li>
     </ul>
 </details>
